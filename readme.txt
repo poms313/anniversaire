@@ -1,6 +1,4 @@
-Réalisez une page dynamique avec jQuery
-
-Le but de cette activité, étant de créer une carte d'anniversaire.
+Git & GitHub - Partie 2 Activité
 
 
 1/ Creation du code html 
